@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c71a2807-0e80-4e61-949e-108f3f369fab" name="Changes" comment="Proyecto Ejercicio 01">
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/androidTest/java/com/example/pizzagrid/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/java/com/example/pizzagrid/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/java/com/example/pizzagrid/PizzaAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/pizza_americana.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/pizza_chicken_bbq.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/pizza_hawaiana.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/pizza_margarita.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/pizza_pepperoni.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/drawable/pizza_vegetariana.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/layout/item_pizza.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/app/src/test/java/com/example/pizzagrid/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PizzaGrid/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TecnologiasMoviles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "camilafgrundy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/camilafgrundy/TecnologiasMoviles.git",
+    "accountId": "801a6b68-a622-4ddd-87b7-f519d00fc52e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3BJOI0WwkhhJ4hMGroucv6JH6uy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c71a2807-0e80-4e61-949e-108f3f369fab" name="Changes" comment="" />
+      <created>1774203622643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774203622643</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Proyecto Ejercicio 01">
+      <option name="closed" value="true" />
+      <created>1774203825508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774203825509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto Ejercicio 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto Ejercicio 01" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1A1A2E">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="⋆⭒˚.⋆ Pizzas del Mundo 🍕 ⋆⭒˚.⋆"
+        android:textColor="#FF6B35"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingTop="40dp"
+        android:paddingBottom="20dp" />
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:padding="8dp"
+        android:verticalSpacing="8dp"
+        android:horizontalSpacing="8dp" />
+
+</LinearLayout>
